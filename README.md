@@ -442,6 +442,22 @@ Future<void> _startListening() async {
 
 *本手册提供了 `StreamAudioDetector` 的完整技术文档和使用案例，帮助开发者快速上手和深入理解音频检测技术。*
 
+<div align="center">
+
+**📝 版权声明 / Copyright Notice**
+
+如果您参考或使用本代码，请注明出处：
+
+**GitHub: [@didadidaboom](https://github.com/didadidaboom)**
+
+---
+
+**© 2024 [@didadidaboom](https://github.com/didadidaboom). All rights reserved.**
+
+*This work is licensed under the MIT License. See LICENSE file for details.*
+
+</div>
+
 ---
 
 ## English Version
@@ -877,3 +893,21 @@ Through this technical manual, developers can:
 ---
 
 *This manual provides complete technical documentation and usage cases for `StreamAudioDetector`, helping developers quickly get started and deeply understand audio detection technology.*
+
+---
+
+<div align="center">
+
+**📝 版权声明 / Copyright Notice**
+
+*If you reference or use this code, please cite the source:*
+
+**GitHub: [@didadidaboom](https://github.com/didadidaboom)**
+
+---
+
+**© 2024 [@didadidaboom](https://github.com/didadidaboom). All rights reserved.**
+
+*This work is licensed under the MIT License. See LICENSE file for details.*
+
+</div>
